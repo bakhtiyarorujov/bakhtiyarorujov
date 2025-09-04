@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bakhtiyar Orujov</h1>
-<h3 align="center">Strong Junior Python Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on By QR<br>🌱 I’m currently learning Java<br>💬 Ask me about python, django, flask, fast api, java, spring boot<br>📫 How to reach me bakhtiyarorujov@gmail.com
